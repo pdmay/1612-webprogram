@@ -1,0 +1,58 @@
+body{
+    background-color: #f4e1d2;
+    font-size: 18pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.8;
+    color: floralwhite;
+}
+.contaner{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 60px;
+}
+.contaner>.info{
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #bc5a45;
+}
+.info{
+    padding: 30px;
+}
+.submit1{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+
+}
+#submit{
+    font-size: 13pt;
+}
+.contener-login{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.contener-login>.info-login{
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #bc5a45;
+}
+.info-login{
+    padding: 30px;
+}
+.submit2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 10px;
+}
